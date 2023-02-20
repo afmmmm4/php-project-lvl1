@@ -1,0 +1,13 @@
+{
+    "name": "madi/mado",
+    "license": "MIT",
+    "bin": [
+            "bin/brain-games"
+          ],
+    "autoload": {
+        "psr-4": {
+            "Madi\\Mado\\": "src/"
+        }
+    },
+    "require": {}
+}
